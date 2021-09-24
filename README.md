@@ -50,6 +50,8 @@
 | Subject | Link |
 | ------ | ------ |
 | Google Fonts | https://fonts.google.com/ |
+| 3D icons ( Free )  | https://free3dicon.com/ |
+
 
 # Generators
 | Subject | Link |
