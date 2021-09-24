@@ -45,6 +45,11 @@
 | ------ | ------ |
 | Google Fonts | https://fonts.google.com/ |
 
+# Generators
+| Subject | Link |
+| ------ | ------ |
+| Glassmorphism  | https://ui.glass/generator/ |
+| SVG and Animated backgrounds  | https://bgjar.com/ |
 
 
 
