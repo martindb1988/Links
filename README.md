@@ -9,6 +9,12 @@
 #
 
 
+# Recommended software
+| Subject | Link |
+| ------ | ------ |
+| Code editor  | https://code.visualstudio.com/ |
+
+
 # CSS / SCSS / SASS
 | Subject | Link |
 | ------ | ------ |
@@ -22,6 +28,26 @@
 | Subject | Link |
 | ------ | ------ |
 | Free books | https://goalkicker.com/?fbclid=IwAR1oOo1DczRZygIUd2KQ31qWqVHucHtcY6ylYVcj7pzFKGrwKFbXE_icumw |
+
+# Git / Github
+| Subject | Link |
+| ------ | ------ |
+| Git ( getting started ) | https://ohshitgit.com/ |
+| Github desktop | https://desktop.github.com/ |
+
+# JSON
+| Subject | Link |
+| ------ | ------ |
+|JSON viewer | http://jsonviewer.stack.hu/ |
+
+# Fonts / Icons
+| Subject | Link |
+| ------ | ------ |
+| Google Fonts | https://fonts.google.com/ |
+
+
+
+
 
 
 
