@@ -14,7 +14,7 @@
 | ------ | ------ |
 | Code editor  | https://code.visualstudio.com/ |
 
-# VS Code ( Keyboard shortcuts
+# VS Code ( Keyboard shortcuts )
 | Subject | Link |
 | ------ | ------ |
 | Mac OS  | https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf  |
