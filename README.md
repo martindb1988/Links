@@ -14,6 +14,12 @@
 | ------ | ------ |
 | Code editor  | https://code.visualstudio.com/ |
 
+# VS Code ( Keyboard shortcuts
+| Subject | Link |
+| ------ | ------ |
+| Mac OS  | https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf  |
+| Windows  | https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf  |
+| Linux  | https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf  |
 
 # CSS / SCSS / SASS
 | Subject | Link |
