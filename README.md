@@ -67,9 +67,12 @@
 
 # Generators
 
-| Subject                      | Link                        |
-| ---------------------------- | --------------------------- |
-| Glassmorphism                | https://ui.glass/generator/ |
-| SVG and Animated backgrounds | https://bgjar.com/          |
-| HTML / CSS tools             | https://webcode.tools/      |
+| Subject                      | Link                                                       |
+| ---------------------------- | ---------------------------                                |
+| Glassmorphism                | https://ui.glass/generator/                                |
+| SVG and Animated backgrounds | https://bgjar.com/                                         |
+| HTML / CSS tools             | https://webcode.tools/                                     |
+| CSS generators               | https://dev.to/kiranrajvjd/awesome-css-generators-3709     |
+
+
 
