@@ -10,9 +10,7 @@
 > This list is curated by the Admin and Mod team. If you want to add resources or report broken links please reach out to us.
 > The preferred way for that is by Messenger or Ping us in the Discord.
 
-#
-
-#
+###
 
 # Recommended software
 
