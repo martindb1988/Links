@@ -70,3 +70,5 @@
 | ---------------------------- | --------------------------- |
 | Glassmorphism                | https://ui.glass/generator/ |
 | SVG and Animated backgrounds | https://bgjar.com/          |
+| HTML / CSS tools             | https://webcode.tools/      |
+
