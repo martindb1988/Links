@@ -1,3 +1,12 @@
+https://badgen.net/badge/:subject/:status/:color?icon=github
+                   ──┬──  ───┬───  ──┬───  ──┬── ────┬──────
+                     │       │       │       │       └─ Options (label, list, icon, color)
+                     │       │       │       │
+                     │      TEXT    TEXT    RGB / COLOR_NAME ( optional )
+                     │
+                  "badge" - default (static) badge generator
+
+
 # Links collection
 
 #### The ultimate full stack web development group
