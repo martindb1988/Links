@@ -30,9 +30,9 @@
 | ----------------- | ---------------------------------------------------------------------- |
 | Grid              | [Complete Grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/)               |
 | Grid practice     | [Grid garden](https://cssgridgarden.com/)                                             |
-| Flexbox           | https://css-tricks.com/snippets/css/a-guide-to-flexbox/                |
-| Flexbox practice  | https://flexboxfroggy.com/                                             |
-| Pseudo cheatsheet | https://drive.google.com/file/d/11cqekinpQknU9sDFddJ7c-ueN_QqyDWy/view |
+| Flexbox           | [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)                |
+| Flexbox practice  | [Flexbox Froggy](https://flexboxfroggy.com/)                                             |
+| Pseudo cheatsheet | [Pseudo cheatsheet PDF](https://drive.google.com/file/d/11cqekinpQknU9sDFddJ7c-ueN_QqyDWy/view) |
 
 # Coding books ( Free )
 
@@ -51,24 +51,31 @@
 
 | Subject     | Link                        |
 | ----------- | --------------------------- |
-| JSON viewer | http://jsonviewer.stack.hu/ |
+| JSON viewer | [make your JSON readable](http://jsonviewer.stack.hu/) |
 
 # Fonts / Icons
 
 | Subject           | Link                      |
 | ----------------- | ------------------------- |
-| 3D icons ( Free ) | https://free3dicon.com/   |
-| Font Awesome      | https://fontawesome.com/  |
-| Google Fonts      | https://fonts.google.com/ |
+| 3D icons ( Free ) | [Free 3D icon](https://free3dicon.com/)   |
+| Font Awesome      | [Font Awesome](https://fontawesome.com/)  |
+| Google Fonts      | [Google Fonts](https://fonts.google.com/) |
 
 # Generators
 
 | Subject                      | Link                                                       |
 | ---------------------------- | ---------------------------                                |
-| Glassmorphism                | https://ui.glass/generator/                                |
-| SVG and Animated backgrounds | https://bgjar.com/                                         |
-| HTML / CSS tools             | https://webcode.tools/                                     |
-| CSS generators               | https://dev.to/kiranrajvjd/awesome-css-generators-3709     |
+| Glassmorphism                | [UI Glass generator](https://ui.glass/generator/)                                |
+| SVG and Animated backgrounds | [Background animator](https://bgjar.com/)                                         |
+| HTML / CSS tools             | [HTML CSS tools](https://webcode.tools/)                                     |
+| CSS generators               | [CSS generators](https://dev.to/kiranrajvjd/awesome-css-generators-3709)     |
+
+# Articles to read
+
+| Subject                      | Link                                                       |
+| ---------------------------- | ---------------------------                                |
+| JavaScript tips              | [10 JavaScript tips](https://dev.to/pascavld/10-javascript-tips-that-can-help-you-understand-this-programming-language-better-3fi0)|
+| a nice Github profile page   | [Github profile page](https://dev.to/codeoz/how-i-create-a-nice-github-profile-page-in-5-min-1m12)|
 
 
 
