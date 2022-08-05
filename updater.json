@@ -1,1 +1,7 @@
-{"version":"1.0","module":"routinehub","id":"2449"}
+{
+  "Version": "1.0",
+  "URL": "https://www.icloud.com/shortcuts/1f40b16a82c04e989261dfb0054928d0",
+  "Notes": "UpdateKit initial release.",
+  "Release": "September 23, 2018",
+  "Required": true
+}
